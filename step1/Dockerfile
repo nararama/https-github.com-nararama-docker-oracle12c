@@ -1,5 +1,5 @@
 FROM oraclelinux
-MAINTAINER bofm
+MAINTAINER Nara
 
 RUN yum -y install oracle-rdbms-server-12cR1-preinstall.x86_64 && \
     yum clean all && \
