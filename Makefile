@@ -1,4 +1,4 @@
-REPO = bofm/oracle12c
+REPO = rnaray/oracle12c
 NAME = oracle
 CURDIR = `pwd`
 SHM_SIZE = 1GB
