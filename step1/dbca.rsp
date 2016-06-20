@@ -683,7 +683,7 @@ SOURCEDB = "myhost:1521:orcl"
 # Default value : none
 # Mandatory     : YES
 #-----------------------------------------------------------------------------
-SYSDBAUSERNAME = "system"
+SYSDBAUSERNAME = "password"
 
 #-----------------------------------------------------------------------------
 # Name          : SYSDBAPASSWORD
